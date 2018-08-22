@@ -1,0 +1,32 @@
+body {
+    background: url("img/bg.png");
+    background-size: 100%;
+    color: #fff;
+    font-family: 'Cutive Mono', monospace;
+}
+h1 {
+    font-family: 'VT323', monospace;
+}
+h2 {
+
+}
+h3 {
+
+}
+h4 {
+
+}
+h5 {
+
+}
+h6 {
+
+}
+p {
+    font-family: 'Cutive Mono', monospace;
+}
+img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}

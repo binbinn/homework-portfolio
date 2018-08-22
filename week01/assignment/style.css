@@ -1,0 +1,69 @@
+header {
+    margin: 20px;
+    padding: 12px;
+    transform: translateX(372px) translateY(46px);
+}
+body {
+    background: url("img/rec.jpeg");
+    background-size: cover;
+    color: #fff;
+    font-family: 'Cutive Mono', monospace;
+    margin: 70px 124px 0 20px;
+}
+h1 {
+    font-family: 'VT323', monospace;
+}
+h2 {
+    font-size: 40px;
+    letter-spacing: 3px;
+    color: #FFF000;
+    text-shadow: 0 0 5px #fff;
+    font-family: 'VT323', monospace;
+    margin-bottom: 0;
+    margin-top: 19px;
+}
+p {
+    font-family: 'Inconsolata', monospace;
+    text-align: left;
+    display:inline;
+    position: relative;
+    line-height: 1.4em;
+    color: rgba(255,255,255,0.7);
+}
+p strong {
+    color: #fff;
+}
+img {
+    height: 200px;
+    width: 200px;
+}
+.contents {
+    margin: 70px 120px 0 100px;
+}
+.profile {
+    float: right;
+    text-align: center;
+    width: 250px;
+    margin: 0 0 10px 10px;
+    padding: 10px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+a {
+    font-family: 'VT323', monospace;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 6px;
+}
+a:link {
+    color:  #4CFF20;
+}
+a:visited {
+    color:  #4CFF20;
+}
+a:hover {
+    color: #FFFD8E;
+}
+nav {
+    text-align: center;
+}
