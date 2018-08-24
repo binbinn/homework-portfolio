@@ -1,0 +1,50 @@
+body {
+	margin: 170px 120px;
+}
+header {
+    height: 150px;
+	margin: 5px;
+}
+div {
+    border: black solid 2px;
+    height: 130px;
+    width: 250px;
+    float: left;
+    margin: 16px 0 0 0;
+}
+nav {
+    float: right;
+    margin: 50px 0 5px 0;
+}
+li {
+    border: black solid 2px;
+    padding: 18px 80px;
+    display: inline;
+    margin: 0 0 0 10px;;
+}
+section {
+    border: black solid 2px;
+    height: 360px;
+    width: 1148px;
+    margin: 20px 5px 15px 5px;
+}
+article {
+    border: black solid 2px;
+    height: 180px;
+    width: 363.5px;
+    display: inline-block;
+}
+.left {
+    margin: 5px 10px 15px 5px;
+}
+.middle {
+    margin: 5px 10px 15px 10px;
+}
+.right {
+    margin: 5px 0 15px 10px;
+}
+footer {
+    border: black solid 2px;
+    height: 150px;
+	margin: 5px;
+}

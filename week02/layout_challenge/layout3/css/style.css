@@ -1,0 +1,40 @@
+body {
+	margin: 170px 120px;
+}
+header {
+    border: black solid 2px;
+    height: 150px;
+	margin: 5px;
+}
+section {
+    border: black solid 2px;
+    height: 400px;
+    width: 559px;
+    display: inline-block;
+}
+.topleft {
+    margin: 15px 15px 15px 5px;
+}
+.topright {
+    margin: 15px 0 15px 5px;
+}
+article {
+    border: black solid 2px;
+    height: 180px;
+    width: 363.5px;
+    display: inline-block;
+}
+.bottomleft {
+    margin: 5px 10px 15px 5px;
+}
+.bottommiddle {
+    margin: 5px 10px 15px 10px;
+}
+.bottomright {
+    margin: 5px 0 15px 10px;
+}
+footer {
+    border: black solid 2px;
+    height: 150px;
+	margin: 5px;
+}

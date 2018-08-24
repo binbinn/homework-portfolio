@@ -1,0 +1,72 @@
+body {
+	margin: 170px 120px;
+}
+header {
+    height: 150px;
+	margin: 5px;
+}
+div {
+    border: black solid 2px;
+    height: 130px;
+    width: 250px;
+    float: left;
+    margin: 16px 0 0 0;
+}
+nav {
+    float: right;
+    margin: 50px 0 5px 0;
+}
+li {
+    border: black solid 2px;
+    padding: 18px 68px;
+    display: inline;
+    margin: 0 0 0 10px;;
+}
+aside {
+	border: black solid 2px;
+	height: 726px;
+	width: 194px;
+	float: left;
+	margin: 20px 15px 15px 5px;
+}
+section {
+	border: black solid 2px;
+}
+.top {
+	height: 150px;
+	width: 922px;
+	margin: 25px 0 15px 230px;
+}
+.bottom {
+	display: inline-block;
+}
+.left {
+	padding: 180px 341px;
+	margin: 10px 15px 15px 12px;
+}
+.right {
+	padding: 180px 101px;
+	margin: 10px 0 15px 15px;
+}
+article {
+	border: black solid 2px;
+	padding: 80px 101px;
+	display: inline-block;
+}
+.one {
+	margin: 5px 0 15px 12px;
+}
+.two {
+	margin: 5px 0 15px 30px;
+}
+.three {
+	margin: 5px 0 15px 30px;
+}
+.four {
+	margin: 5px 0 15px 30px;
+}
+footer {
+    border: black solid 2px;
+    height: 150px;
+	margin: 7px 5px;
+}

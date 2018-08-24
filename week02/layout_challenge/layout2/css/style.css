@@ -1,0 +1,31 @@
+body {
+	margin: 170px 120px;
+}
+header {
+    border: black solid 2px;
+    height: 150px;
+	margin: 5px;
+}
+section {
+    border: black solid 2px;
+    height: 500px;
+    display: inline-block;
+}
+.side {
+    width: 16%;
+}
+.left {
+    margin: 15px 10px 15px 5px;
+}
+.right {
+    margin: 15px 0 15px 10px;
+}
+.middle {
+    width: 61.8%;
+    margin: 15px 10px 15px 10px;
+}
+footer {
+    border: black solid 2px;
+    height: 150px;
+	margin: 5px;
+}
