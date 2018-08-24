@@ -13,10 +13,10 @@ section {
     display: inline-block;
 }
 .topleft {
-    margin: 15px 15px 15px 5px;
+    margin: 17px 15.5px 15px 5px;
 }
 .topright {
-    margin: 15px 0 15px 5px;
+    margin: 17px 0 15px 5px;
 }
 article {
     border: black solid 2px;
